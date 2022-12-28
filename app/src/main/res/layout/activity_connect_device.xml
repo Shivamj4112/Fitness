@@ -21,6 +21,9 @@
             android:background="@drawable/ripple_white_light"
             android:src="@drawable/ic_arrow_back"
             app:tint="@color/white" />
+
+
+
     </LinearLayout>
 
     <LinearLayout

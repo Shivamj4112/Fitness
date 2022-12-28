@@ -70,7 +70,6 @@ public class LoginActivity extends AppCompatActivity {
             public void onClick(View view) {
 
 
-
                 editor.putString("email",email.getText().toString());
                 editor.putString("password",password.getText().toString());
                 editor.commit();
